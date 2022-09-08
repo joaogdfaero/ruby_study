@@ -11,3 +11,12 @@ elsif valor == 20
 else
     puts "esse valor é menor que 50"
 end
+
+
+
+
+if valor >= 50 && valor <= 100
+    puts "Estou entre 50 e 100"
+else
+    puts "EU não estou entre 50 ou 100"
+end
