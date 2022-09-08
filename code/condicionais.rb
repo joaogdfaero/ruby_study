@@ -35,9 +35,12 @@ end
 puts "Digite um valor numérico: "
 valor = gets.chomp.to_i
 
-unless valor == 100
+unless valor == 100 # unless faz o contrário, é um if só que dá o contrário
     puts "O valor não é 100"
 else
     puts "O valor digitado é 100"
 end
 
+
+# sintaxe elegante
+puts "eu sou maior que 50" if valor>50
