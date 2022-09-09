@@ -16,3 +16,4 @@ def soma_com_parametros_nomeados(valor1:,valor2:)
 end
 
 puts "Vou somar com parâmetros nomeados"
+puts soma_com_parametros_nomeados(valor2:5,valor1:2)
