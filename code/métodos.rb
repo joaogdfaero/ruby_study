@@ -8,4 +8,5 @@ end
 # é preciso executar o método para ter a saída
 
 puts "Ele ignora o método enquanto ele não é chamado, por isso isso aparece primeiro" 
+
 puts soma(10,5)
