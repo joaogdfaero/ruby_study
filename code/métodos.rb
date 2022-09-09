@@ -11,6 +11,7 @@ puts "Ele ignora o método enquanto ele não é chamado, por isso isso aparece p
 puts soma(10,5)
 
 
+# usando parâmetros nomeados (a ordem da entrada ai não importa, mas não peguei se tem alguma diferença)
 def soma_com_parametros_nomeados(valor1:,valor2:)
     soma(valor1,valor2)
 end
