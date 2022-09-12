@@ -1,0 +1,1 @@
+# Verifica se a palavra é palíndromo (igual trás pra frente)
