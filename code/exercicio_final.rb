@@ -1,1 +1,1 @@
-# Verifica se a palavra é palíndromo (igual trás pra frente)
+# Verifica se a palavra que o usuário entra é palíndromo (igual trás pra frente)
