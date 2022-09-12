@@ -9,7 +9,6 @@ puts palavra_invertida
 if palavra == palavra_invertida
     puts "A palavra é um palíndromo"
 else
-    "A palavra não é um palíndromo"
+    puts "A palavra não é um palíndromo"
 end
 
-    
