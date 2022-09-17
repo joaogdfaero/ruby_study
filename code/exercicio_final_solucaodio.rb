@@ -22,3 +22,5 @@ end
 puts palindromo?('ovo')
 puts palindromo?('Ovo')
 puts palindromo?('casa')
+
+# VERSÃO COM UMA LINHA
