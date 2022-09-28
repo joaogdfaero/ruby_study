@@ -1,10 +1,9 @@
+# VERIFICA SE A PALAVRA É UM PALÍNDROMO
 def palindromo?(palavra)
     palavra = palavra.downcase
     palavra_reversa = ""
 
     indice = palavra.length
-
-
 
     until indice == 0
         letra = palavra[indice -1]
@@ -19,8 +18,26 @@ def palindromo?(palavra)
     end
 end
 
+
+
+# VERIFICA SE A PALAVRA É UM PALÍNDROMO
+def palindromo?(palavra)
+    palavra.downcase==palavra.downcase.reverse
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 puts palindromo?('ovo')
 puts palindromo?('Ovo')
 puts palindromo?('casa')
-
-# VERSÃO COM UMA LINHA
