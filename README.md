@@ -1,1 +1,2 @@
-# Repositório com exercícios do curso "O que é Ruby?" da Dio
+# Ruby studying
+Repository dedicated to Ruby studying with problems and examples solved
